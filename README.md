@@ -1,0 +1,1 @@
+Power sequence waveform generator!
